@@ -1,0 +1,11 @@
+ID
+Summary
+Description
+STR
+Severity
+Priority
+Symptom
+Workaround
+Comment
+Attachment
+
